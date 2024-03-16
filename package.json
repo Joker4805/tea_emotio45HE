@@ -8,7 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joker4805/tea_emotio45HE.git"
+    "url": "https://github.com/Joker4805/tea_emotio45HE.git"
+  },
+  "dependencies": {
+    "rrlol45redg_tea": "1.0.0",
+    "teammmmUkra": "1.0.0",
+    "tea_emotio45HE": "1.0.0",
+    "bolillo_tea_aps": "1.0.0",
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
