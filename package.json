@@ -1,0 +1,19 @@
+{
+  "name": "tea_emotio45he",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joker4805/tea_emotio45HE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joker4805/tea_emotio45HE/issues"
+  },
+  "homepage": "https://github.com/Joker4805/tea_emotio45HE#readme"
+}
